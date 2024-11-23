@@ -3,6 +3,10 @@
 Project Objective
 This project aims to analyze the COVID-19 pandemic's trends and impacts using a global dataset. By examining confirmed cases, deaths, and recoveries over time and across regions, the analysis provides insights into the spread and severity of the virus. The project leverages data cleaning, statistical methods, and visualizations to uncover patterns and highlight key findings, offering a comprehensive understanding of the pandemic's progression.
 
+Kaggle Project Link: https://www.kaggle.com/code/akifkara217/global-ai-hub-data-analysis-project?scriptVersionId=209245537
+
+Dataset Link: https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset
+
 Notebook Structure
 1- Introduction
 Brief overview of the project, objectives, and the dataset used to analyze COVID-19 trends.
