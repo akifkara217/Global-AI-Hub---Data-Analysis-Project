@@ -7,7 +7,7 @@ Kaggle Project Link: https://www.kaggle.com/code/akifkara217/global-ai-hub-data-
 
 Dataset Link: https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset
 
-Notebook Structure
+## Notebook Structure
 
 1- Introduction
 Brief overview of the project, objectives, and the dataset used to analyze COVID-19 trends.
