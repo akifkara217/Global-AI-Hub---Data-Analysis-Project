@@ -1,4 +1,4 @@
-# Global-AI-Hub--Data-Analysis-Project
+# Global_AI_Hub_Data_Analysis_Project
 
 Project Objective
 This project aims to analyze the COVID-19 pandemic's trends and impacts using a global dataset. By examining confirmed cases, deaths, and recoveries over time and across regions, the analysis provides insights into the spread and severity of the virus. The project leverages data cleaning, statistical methods, and visualizations to uncover patterns and highlight key findings, offering a comprehensive understanding of the pandemic's progression.
